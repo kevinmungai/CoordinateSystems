@@ -15,6 +15,8 @@
  *
  * */
 
+
+//initialize Open
 void initGL(){
     glMatrixMode(GL_PROJECTION);
     glLoadIdentity();
